@@ -1,3 +1,1 @@
-remote_theme: pages-themes/minimal@latest
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-cayman-theme
